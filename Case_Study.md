@@ -66,7 +66,7 @@ Then, I started to iterate the use of layer blurs and solid colors together. **O
 ![Layer Blur x Solid](https://user-images.githubusercontent.com/72583144/130652437-6ab9659d-1eb2-4e53-9e0d-0916b9c626c5.png)
 
 
-I also made sure to embed simplicity and the right copy in the account creation process to ease onboarding. Therefor, users can simply create accounts with a username, email address and password. When an account is created, a random avatar is to be generated from the *[BoringAvatars](https://boringavatars.com)* API. This is to ease the account setup process and help users focus on the main aim of the app. 
+I also made sure to embed simplicity and the right copy in the account creation process to ease onboarding. Therefore, users can simply create accounts with a username, email address and password. When an account is created, a random avatar is to be generated from the *[BoringAvatars](https://boringavatars.com)* API. This is to ease the account setup process and help users focus on the main aim of the app. 
 
 On completing the design for the web app, I proceeded to curate the components and style guide for the landing page. The goal of the landing page is to pass across the message of what, why and how. I made sure to structure the the UX Writing on the landing page to pass across the message properly. I also made sure to follow the style guide as used on the web app. However, in place of layer blurs, I made use of color gradients. 
 
