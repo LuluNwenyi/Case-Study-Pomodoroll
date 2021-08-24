@@ -56,19 +56,21 @@ Journaling and Planning are two things that helped me improve my productivity an
 
 It started with sketches for the web app. Once I get an idea in my head, the first thing I do is to sketch it out to get clarity. I began to iterate on what I had sketched.  I was also confused on what feel it should give. I wanted to design a user-friendly and simple app that gives a calm feeling. I chose to give a calming feeling because I during my listening sessions in the research stage, I had noted how some people feel pressured while working. So to ease this pressure, I chose to make use of calming colours, with red as the primary colour because it’s the colour of tomato — *which the word pomodoro is coined from*. I also decided to make use of a cool font type and emojis to align with my goals of designing a calming and friendly product. Following my decisions, I proceeded to create components and a simple style guide to work with. 
 
-![Screen Shot 2021-08-24 at 2.31.44 PM.png](Case%20Study%20024512bcb63f4141b3f0173fbd3b245a/Screen_Shot_2021-08-24_at_2.31.44_PM.png)
+<img width="783" alt="mini style guide" src="https://user-images.githubusercontent.com/72583144/130652516-067e8294-8054-4f7f-8176-1bc17f09f5d4.png">
+
 
 For the hi-fi wireframes, I had begun with the use of solid colors as backgrounds but it did not give what it was supposed to gave. :) 
 
 Then, I started to iterate the use of layer blurs and solid colors together. **Outcome:**
 
-![pomodoro.png](Case%20Study%20024512bcb63f4141b3f0173fbd3b245a/pomodoro.png)
+![Layer Blur x Solid](https://user-images.githubusercontent.com/72583144/130652437-6ab9659d-1eb2-4e53-9e0d-0916b9c626c5.png)
+
 
 I also made sure to embed simplicity and the right copy in the account creation process to ease onboarding. Therefor, users can simply create accounts with a username, email address and password. When an account is created, a random avatar is to be generated from the *[BoringAvatars](https://boringavatars.com)* API. This is to ease the account setup process and help users focus on the main aim of the app. 
 
 On completing the design for the web app, I proceeded to curate the components and style guide for the landing page. The goal of the landing page is to pass across the message of what, why and how. I made sure to structure the the UX Writing on the landing page to pass across the message properly. I also made sure to follow the style guide as used on the web app. However, in place of layer blurs, I made use of color gradients. 
 
-To view shots of the product, click [here](https://github.com/LuluNwenyi/Case-Study-Pomodoroll/)
+To view shots of the product, click [here](https://github.com/LuluNwenyi/Case-Study-Pomodoroll/blob/main/README.md)
 
 ### The Process — *Backend Development*
 
