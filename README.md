@@ -38,6 +38,6 @@ https://user-images.githubusercontent.com/72583144/130648714-9e874d5f-eb3b-447f-
 
 ### Feedback
 
-For feedback or ideas/contributions, email oluchi@lulunwenyi.com.
+For feedback or ideas/contributions, email dev@lulunwenyi.com.
 
 If you'd like to support this project, feel free to [buymeacoffee](https://www.buymeacoffee.com/lulunwenyi).
