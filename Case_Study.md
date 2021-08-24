@@ -86,7 +86,7 @@ Regarding design, I wouldn’t change so much but I would optimize for a much be
 
 ### Conclusion
 
-I enjoyed the entire process of working on this project. From playing with colors to minor prototyping, learning crud properly and figuring the functions for specific features. I had many setbacks including pc issues but I was still able to complete it within a month. 
+I enjoyed the entire process of working on this project. From playing with colors to minor prototyping, learning crud properly and figuring the functions for specific features. I encountered different setbacks but I was still able to complete it within a month. 
 
 Special thanks to [Oluchi Orji](https://oluchiorji.com) and [Pascal Uwakwe](https://github.com/c0l0red) for helping me understand REST APIs, and [Favour Adedapo](https://favourcodes.com) for working on the frontend part of this project. 
 
