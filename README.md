@@ -9,7 +9,7 @@ Pomodoroll is a web-based productivity tool to help you practice the pomodoro te
   
 ### Demo
 
-Demo.mov
+(Demo.mov)
 
 
 ### Tech Stack
