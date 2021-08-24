@@ -25,6 +25,10 @@ Pomodoroll is a web-based productivity tool to help you practice the pomodoro te
 
 <img width="1280" alt="Report Screen" src="https://user-images.githubusercontent.com/72583144/130650143-afa69ebb-39a2-468b-b563-b0eeaed8e27d.png">
 
+![Mobile shot](https://user-images.githubusercontent.com/72583144/130661868-65c4bdcb-514a-4ea0-aa8b-0e9306ecd5d2.png)
+
+![Mobile shot](https://user-images.githubusercontent.com/72583144/130661874-6730776b-21b6-4b82-9702-70b635f351ae.png)
+
 
 ### Demo
 
